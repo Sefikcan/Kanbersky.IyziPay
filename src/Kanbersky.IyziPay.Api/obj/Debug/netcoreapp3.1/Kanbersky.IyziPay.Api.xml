@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kanbersky.IyziPay.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Kanbersky.IyziPay.Api.Controllers.PaymentsController">
+            <summary>
+            Payments Operations
+            </summary>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.#ctor(Kanbersky.IyziPay.Business.Abstract.IIyziPayService)">
+            <summary>
+            ctor
+            </summary>
+            <param name="iyziPayService"></param>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.CheckBin(Kanbersky.IyziPay.Business.DTO.Request.InstallmentRequestModel)">
+            <summary>
+            Returns credit card information according to the bin number entered
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.SaveCard(Kanbersky.IyziPay.Business.DTO.Request.SaveCardRequestModel)">
+            <summary>
+            Save Card Information
+            </summary>
+            <param name="saveCardRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.CancelProcess(Kanbersky.IyziPay.Business.DTO.Request.CancelProcessRequestModel)">
+            <summary>
+            Cancel Process Operation
+            </summary>
+            <param name="cancelProcessRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.RefundProcess(Kanbersky.IyziPay.Business.DTO.Request.RefundProcessRequestModel)">
+            <summary>
+            Refund Process Operation
+            </summary>
+            <param name="refundProcessRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.CheckPaymentStatus(Kanbersky.IyziPay.Business.DTO.Request.CheckPaymentStatusRequestModel)">
+            <summary>
+            Check Payment Status
+            </summary>
+            <param name="checkPaymentStatusRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.BasicPay(Kanbersky.IyziPay.Business.DTO.Request.BasicPayRequestModel)">
+            <summary>
+            Non-3d Payment Operations
+            </summary>
+            <param name="basicPayRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.SecurePay(Kanbersky.IyziPay.Business.DTO.Request.SecurePayRequestModel)">
+            <summary>
+            Start 3d Payment Operation
+            </summary>
+            <param name="securePayRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Controllers.PaymentsController.CallBack(Kanbersky.IyziPay.Business.DTO.Request.CallBackRequestModel)">
+            <summary>
+            End 3d Payment Operation
+            </summary>
+            <param name="callBackRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Kanbersky.IyziPay.Api.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Kanbersky.IyziPay.Api.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            ctor
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Kanbersky.IyziPay.Api.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Kanbersky.IyziPay.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\bin\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.deps.json
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\bin\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.dll
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\bin\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.pdb
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\bin\Debug\netcoreapp3.1\Kanbersky.IyziPay.Core.dll
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\bin\Debug\netcoreapp3.1\Kanbersky.IyziPay.Core.pdb
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.dll
+D:\WorkSpaces\Back-end\Other\Kanbersky.IyziPay\src\Kanbersky.IyziPay.Business\obj\Debug\netcoreapp3.1\Kanbersky.IyziPay.Business.pdb
