@@ -9,6 +9,7 @@ FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
 COPY ["src/Kanbersky.IyziPay.Api/Kanbersky.IyziPay.Api.csproj", "src/Kanbersky.IyziPay.Api/"]
 COPY ["src/Kanbersky.IyziPay.Api/Kanbersky.IyziPay.Business.csproj", "src/Kanbersky.IyziPay.Business/"]
+COPY ["src/Kanbersky.IyziPay.Api/Kanbersky.IyziPay.Tests.csproj", "src/Kanbersky.IyziPay.Tests/"]
 RUN dotnet restore "src/Kanbersky.IyziPay.Api/Kanbersky.IyziPay.Api.csproj"
 COPY . .
 WORKDIR "/src/src/Kanbersky.IyziPay.Api"
